@@ -16,7 +16,7 @@
         <p style="margin: 0 0 10px 0; color: #c9d1d9;">&gt; Bypassing firewall constraints...</p>
         <p style="margin: 0 0 15px 0; color: #79c0ff; font-weight: bold;">&gt; SUCCESS: Reality.exe crashed. Error payload exposed:</p>
         
-        <!-- Center-aligned Meme Target Using a Reliable Open API -->
+        <!-- Corrected Center-aligned Meme Target -->
         <div align="center" style="margin: 20px 0;">
           <img src="https://githubusercontent.com" alt="Programming Humor" width="100%" style="border-radius: 4px; border: 1px solid #30363d; max-width: 450px;">
         </div>
