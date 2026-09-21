@@ -6,24 +6,24 @@
         <span style="color: #ff5f56;">●</span> 
         <span style="color: #ffbd2e;">●</span> 
         <span style="color: #27c93f;">●</span>
-        <code style="color: #8b949e; margin-left: 10px;">system_breach.sh</code>
+        <code style="color: #8b949e; margin-left: 10px;">reality_glitch.sh</code>
       </td>
     </tr>
     <tr>
       <!-- Terminal Content -->
       <td style="padding: 20px; color: #58a6ff; line-height: 1.6; text-align: left;">
-        <p style="color: #ff7b72; margin: 0 0 10px 0; font-weight: bold; font-size: 1.2rem;">⚠️ STACK OVERFLOW PANIC (0x404_MEME)</p>
-        <p style="margin: 0 0 15px 0; color: #c9d1d9;">&gt; Attempting to compile error-free code...</p>
-        <p style="margin: 0 0 15px 0; color: #ff7b72; font-weight: bold;">&gt; CRITICAL EXCEPTION: Reality.exe crashed. Error payload deployed:</p>
+        <p style="color: #ff7b72; margin: 0 0 10px 0; font-weight: bold; font-size: 1.1rem;">⚠️ CRITICAL_STACK_OVERFLOW (0x404_MEME)</p>
+        <p style="margin: 0 0 10px 0; color: #c9d1d9;">&gt; Bypassing firewall constraints...</p>
+        <p style="margin: 0 0 15px 0; color: #79c0ff; font-weight: bold;">&gt; SUCCESS: Reality.exe crashed. Error payload exposed:</p>
         
-        <!-- Center-aligned Meme Target -->
+        <!-- Center-aligned Meme Target Using a Reliable Open API -->
         <div align="center" style="margin: 20px 0;">
-          <img src="https://programmerhumor.io" alt="Fixing a bug meme" width="100%" style="border-radius: 4px; border: 1px solid #30363d; max-width: 450px;">
+          <img src="https://githubusercontent.com" alt="Programming Humor" width="100%" style="border-radius: 4px; border: 1px solid #30363d; max-width: 450px;">
         </div>
 
-        <p style="margin: 15px 0 5px 0; color: #79c0ff;">&gt; [SYSTEM STATUS] Trying to fix it made it worse.</p>
+        <p style="margin: 15px 0 5px 0; color: #ff7b72;">&gt; WARNING: Trying to fix this code will make it worse.</p>
         <p style="margin: 0; color: #3ea6ff;">
-          $ shutdown --now --force <span style="background-color: #58a6ff; color: #58a6ff;">_</span>
+          $ executing payload... <span style="background-color: #58a6ff; color: #58a6ff;">_</span>
         </p>
       </td>
     </tr>
